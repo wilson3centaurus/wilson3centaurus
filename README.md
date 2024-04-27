@@ -29,7 +29,7 @@
 📧 Email: tafadzwawilsonsedze@gmail.com  
 💼 [GitHub](https://github.com/wilson3centaurus/)  
 🌐 [Facebook](https://www.facebook.com/wilson.sedze)  
-📱 [WhatsApp](+263787209882)  
+📱 [WhatsApp](https://wa.me/+263787209882)  
 💬 [Stack Overflow](https://stackoverflow.com/users/22443742/tafadzwa-wilson-sedze)  
 🎮 [Discord](Wilson_Centaurus)
   
