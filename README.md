@@ -35,7 +35,9 @@
   
 
 ## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wilson3centaurus&show_icons=true&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=wilson3centaurus&color=blue&abbreviated=true)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=wilson3centaurus&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wilson3centaurus&layout=compact&theme=radical)
 
 
