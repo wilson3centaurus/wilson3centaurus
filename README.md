@@ -19,9 +19,18 @@
 
    
 ## Interests:
-🌟 Delving into the mysteries of space, stars, and planets  
-🎮 Conquering virtual realms in PC games  
-🔍 Researching ancient Egyptian enigmas and mythology  
+- 💻 Coding and learning new programming languages
+- 🎮 Pofessional gaming
+- 🌐 Website and mobile app design
+- 🌑 Dark web exploration
+- 📡 Electronics and IoT
+- 🤖 AI and machine learning
+- 🔒 Ethical hacking
+
+## Additional Interests:
+- 🌟 Delving into the mysteries of space, stars, and planets  
+- 🕹️ Conquering virtual realms in PC games  
+- 🔍 Researching ancient Egyptian enigmas and mythology
 
 ## Connect with Me:
 🌐 [LinkedIn](https://www.linkedin.com/in/tafadzwa-wilson-sedze-2088b6177/)  
